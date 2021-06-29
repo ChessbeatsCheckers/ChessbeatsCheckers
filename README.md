@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @ChessbeatsCheckers
+- 👀 I’m interested in ...
+New stuff, and league of legends
+- 🌱 I’m currently learning ...
+ftp servers on fedora
+- 💞️ I’m looking to collaborate on ...
+stuff
+- 📫 How to reach me ...
+
+<!---
+ChessbeatsCheckers/ChessbeatsCheckers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->  dont have one yet, stay tuned
