@@ -20,7 +20,4 @@ This is a 3d vr nurseing application, made and handed off to the Nursing departm
 vardan.torosyan.988@my.csun.edu
 
 
-<!---
-ChessbeatsCheckers/ChessbeatsCheckers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->  dont have one yet, stay tuned
+
