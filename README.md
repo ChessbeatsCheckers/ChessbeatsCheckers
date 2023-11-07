@@ -17,7 +17,7 @@ This is a 3d vr nurseing application, made and handed off to the Nursing departm
 
 
 - 📫 How to reach me ...
-vardan.torosyan.988@my.csun.edu
+Vardan8000@gmail.com
 
 
 
